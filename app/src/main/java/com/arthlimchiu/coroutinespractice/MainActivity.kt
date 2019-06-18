@@ -26,6 +26,6 @@ class MainActivity : AppCompatActivity() {
 
     private suspend fun doWorld() {
         delay(1000L)
-        Log.d("MainActivity", "World!")
+        Log.d("MainActivity", "World!")b
     }
 }
